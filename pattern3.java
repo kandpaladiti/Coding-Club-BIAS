@@ -1,3 +1,5 @@
+//Wednesday (20-09-2023)
+
 import java.util.*;
 class pattern3{
 	public static void main(String[]args){
